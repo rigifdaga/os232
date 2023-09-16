@@ -4,6 +4,20 @@ permalink: LINKS/
 
 # LINKS
 
+
+<h1>WEEK 2</h1>
+
+* [Cyber Security Full Course for Beginner](https://www.youtube.com/watch?v=U_P23SqJaDc) ---
+It covers various topics related to cyber security, such as terminology, computers, internet, passwords, email, malware, web browsing, wireless network, and social media. The video is about 5 hours long and has a table of contents for easy navigation. The video is useful for anyone who wants to learn the basics of cyber security and how to protect themselves from online threats. Some of the reasons why others should watch this video are:
+1. Cyber security is an important and relevant skill in the modern world, as more and more aspects of our lives depend on digital technologies.
+2. The video provides a comprehensive and clear introduction to cyber security, with examples and explanations that are easy to follow and understand.
+3. The video covers a wide range of topics that are essential for cyber security, such as how computers and internet work, how passwords and email are secured, how malware infects devices, how web browsing and online shopping can be risky, how wireless network can be compromised, and how social media can affect privacy.
+4. The video also offers some practical tips and advice on how to create strong passwords, how to safely navigate the web, how to administer wireless network, and how to read URLs.
+<br>
+<hr>
+
+<h1>WEEK 1</h1>
+
 * [The Complete Linux Course: Beginner to Power User!](https://www.youtube.com/watch?v=wBp0Rb-ZJak&ab_channel=JosephDelgadillo) ---
 Linux has a set of basic commands that can be used to perform various tasks, such as navigating the file system, creating and deleting files and directories, copying and moving files and directories, searching for files and patterns, viewing and editing files, managing processes, and changing permissions and ownership.
 <br>
