@@ -7,9 +7,7 @@ permalink: LINKS/
 <h1>WEEK 3</h1>
 
 * [Files & File Systems: Crash Course Computer Science #20](https://www.youtube.com/watch?v=KN8YgJnShPM) ---
-The video provides a detailed explanation of how computers read and interpret files. It discusses popular file formats like txt, wave, and bitmap, and how they are encoded and decoded.
-
-Understanding File Systems: It gives an insight into how our computers keep all this data organized and readily accessible to users.
+The video provides a detailed explanation of how computers read and interpret files. It discusses popular file formats like txt, wave, and bitmap, and how they are encoded and decoded. It also gives an insight into how our computers keep all this data organized and readily accessible to users.
 <br>
 <hr>
 
