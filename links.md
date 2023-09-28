@@ -4,6 +4,13 @@ permalink: LINKS/
 
 # LINKS
 
+<h1>WEEK 4</h1>
+
+* [Advanced Programming in the UNIX Environment: Week 11, Segment 3 - Shared Libraries](https://www.youtube.com/watch?v=eloJO0ssrfc) ---
+In this video, he cover shared libraries themselves. The video discuss just what exactly a shared library is, how to create one, and how we can influence the behavior of dynamically linked executables due to the way the link-editor works by setting the LD_LIBRARY_PATH variable or using the "-rpath" flag for the linker.
+<br>
+<hr>
+
 <h1>WEEK 3</h1>
 
 * [Files & File Systems: Crash Course Computer Science #20](https://www.youtube.com/watch?v=KN8YgJnShPM) ---
