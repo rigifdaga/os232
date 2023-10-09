@@ -4,6 +4,13 @@ permalink: LINKS/
 
 # LINKS
 
+<h1>WEEK 5</h1>
+
+* [What is virtual memory? – Gary explains](https://www.youtube.com/watch?v=2quKyPnUShQ) ---
+Everyone should watch this video if they want to learn about the concept of virtual memory, which is a technique that allows a computer to use more memory than it physically has by using disk space as an extension of RAM. The video explains how virtual memory works, what is the role of the memory management unit (MMU), and how virtual memory is implemented in different operating systems such as Windows, iOS, and Android. The video is informative, clear, and easy to follow, and it can help anyone who is interested in computer science or programming to understand one of the fundamental aspects of modern computing.
+<br>
+<hr>
+
 <h1>WEEK 4</h1>
 
 * [Advanced Programming in the UNIX Environment: Week 11, Segment 3 - Shared Libraries](https://www.youtube.com/watch?v=eloJO0ssrfc) ---
