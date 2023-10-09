@@ -34,4 +34,11 @@ ZCZC W04 320 L01 SCELE/Discord related
 ZCZC W04 180 L09 Weekly Assignments
 ZCZC W04 50 L82 Reading Book (paper or online)
 ZCZC W04 15 L32 YouTube: watching OS related topics, etc.
-ZCZC W04 20 L03 GitHub related
+ZCZC W05 20 L03 GitHub related
+ZCZC W05 100 L02 CLASSROOM/ZOOM meetings related
+ZCZC W05 320 L01 SCELE/Discord related
+ZCZC W05 210 L09 Weekly Assignments
+ZCZC W05 30 L82 Reading Book (paper or online)
+ZCZC W05 15 L32 YouTube: watching OS related topics, etc.
+ZCZC W05 20 L03 GitHub related
+ZCZC W05 15 L05 QUIZ
