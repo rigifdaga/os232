@@ -4,6 +4,11 @@ permalink: LINKS/
 
 # LINKS
 
+<h1>WEEK 6</h1>
+
+* [Introduction to Threads](https://www.youtube.com/watch?v=LOfGJcVnvAk) ---
+You should watch this video if you want to learn about the concept of threads, which are basic units of CPU utilization that can run concurrently within a process. The video explains the difference between single-threaded and multi-threaded processes, the components of a thread, the benefits of multi-threading, and how to view the processes and threads running in your system. The video also provides some examples and diagrams to illustrate the idea of threads and how they share resources and improve efficiency. The video is suitable for beginners who want to understand the basics of threads and concurrency in operating systems.
+
 <h1>WEEK 5</h1>
 
 * [What is virtual memory? – Gary explains](https://www.youtube.com/watch?v=2quKyPnUShQ) ---
