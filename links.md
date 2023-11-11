@@ -4,6 +4,11 @@ permalink: LINKS/
 
 # LINKS
 
+<h1>WEEK 7</h1>
+
+* [Process Synchronization](https://www.youtube.com/watch?v=ph2awKa8r5Y&list=PLBlnK6fEyqRjDf_dmCEXgl6XjVKDDj0M2) ---
+You should watch this video if they want to learn about the basics of process synchronization in operating systems, and how to avoid the race condition and solve the critical section problem. The video is clear, concise, and informative, and it provides some examples and diagrams to help the viewers understand the concepts. The video is suitable for anyone who is interested in computer science or programming, and who wants to know how multiple processes can work together without causing errors or inconsistencies.
+
 <h1>WEEK 6</h1>
 
 * [Introduction to Threads](https://www.youtube.com/watch?v=LOfGJcVnvAk) ---
