@@ -49,3 +49,9 @@ ZCZC W06 60 L82 Reading Book (paper or online)
 ZCZC W06 30 L32 YouTube: watching OS related topics, etc.
 ZCZC W06 15 L03 GitHub related
 ZCZC W06 14 L05 QUIZ
+ZCZC W07 7 L05 QUIZ
+ZCZC W07 200 L02 CLASSROOM/ZOOM meetings related
+ZCZC W07 120 L01 SCELE/Discord related
+ZCZC W07 120 L09 Weekly Assignments
+ZCZC W07 60 L82 Reading Book (paper or online)
+ZCZC W07 30 L32 YouTube: watching OS related topics, etc.
