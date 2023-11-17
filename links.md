@@ -4,6 +4,11 @@ permalink: LINKS/
 
 # LINKS
 
+<h1>WEEK 8</h1>
+
+* [7. Chapter 5: Compiling a Cross-Toolchain - How to build Linux From Scratch (LFS) 12.0](https://www.youtube.com/watch?v=uggsnHSELos) ---
+The video includes demonstrations of commands and their outputs, which can be very helpful for viewers who are new to these commands.
+
 <h1>WEEK 7</h1>
 
 * [Process Synchronization](https://www.youtube.com/watch?v=ph2awKa8r5Y&list=PLBlnK6fEyqRjDf_dmCEXgl6XjVKDDj0M2) ---
