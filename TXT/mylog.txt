@@ -55,3 +55,8 @@ ZCZC W07 120 L01 SCELE/Discord related
 ZCZC W07 120 L09 Weekly Assignments
 ZCZC W07 60 L82 Reading Book (paper or online)
 ZCZC W07 30 L32 YouTube: watching OS related topics, etc.
+ZCZC W08 140 L01 SCELE/Discord related
+ZCZC W08 260 L09 Weekly Assignments
+ZCZC W08 130 L32 YouTube: watching OS related topics, etc.
+ZCZC W08 7 L05 QUIZ
+ZCZC W08 75 L82 Reading Book (paper or online)
